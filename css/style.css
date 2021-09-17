@@ -1,0 +1,9 @@
+.countries img{
+    width: 200px;
+}
+.countries{
+    border: 2px solid green;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: lightgoldenrodyellow;
+}
